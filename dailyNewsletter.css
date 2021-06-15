@@ -1,0 +1,22 @@
+.newsletter {
+    font-family: sans-serif;
+}
+
+.outer {
+    width: 490px;
+    height: 1000px;
+    background-color: #ebebeb;
+    position: absolute;
+    border-radius: 5px;
+}
+
+.inner {
+    width: 480px;
+    height: 570px;
+    margin: 5px;
+    position: relative;
+}
+
+.header-pic{
+    margin-left: 50px;
+}
