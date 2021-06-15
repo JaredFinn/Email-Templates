@@ -3,20 +3,52 @@
 }
 
 .outer {
-    width: 490px;
-    height: 1000px;
     background-color: #ebebeb;
     position: absolute;
     border-radius: 5px;
 }
 
 .inner {
-    width: 480px;
-    height: 570px;
     margin: 5px;
-    position: relative;
+}
+
+.subheader{
+    color:#000000;
+    margin: 5px;
+    text-align: center;
+}
+
+.title{
+    color: black;
+}
+
+.link{
+    color: black;
+}
+
+.link-text{
+    text-decoration: none;
+}
+
+.click{
+    text-decoration: none;
+    color: blue;
+}
+
+.hr{
+    width: 500px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .header-pic{
-    margin-left: 50px;
+    margin-left: 30%;
+}
+
+.footer{
+    text-align: center;
+}
+
+.footer-img{
+    margin-left: 10%;
 }
