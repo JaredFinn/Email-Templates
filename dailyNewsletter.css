@@ -6,9 +6,13 @@
     background-color: #ebebeb;
     position: absolute;
     border-radius: 5px;
+    width: 490px;
+    height: 1100px;
 }
 
 .inner {
+    width: 480px;
+    height: 570px;
     margin: 5px;
 }
 
@@ -37,13 +41,13 @@
 }
 
 .hr{
-    width: 500px;
+    width: 400px;
     margin-top: 20px;
     margin-bottom: 20px;
 }
 
 .header-pic{
-    margin-left: 30%;
+   
 }
 
 .footer{
@@ -51,5 +55,4 @@
 }
 
 .footer-img{
-    margin-left: 10%;
 }
