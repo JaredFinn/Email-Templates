@@ -3,15 +3,13 @@
 }
 
 .outer {
-    background-color: #ebebeb;
     position: absolute;
     border-radius: 5px;
-    width: 490px;
+    width: 600px;
     height: 1100px;
 }
 
 .inner {
-    width: 480px;
     height: 570px;
     margin: 5px;
 }
@@ -55,4 +53,13 @@
 }
 
 .footer-img{
+}
+
+.stories{
+    text-align: left;
+}
+
+.stories a{
+    text-decoration: none;
+    color: black;
 }
